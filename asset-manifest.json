@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/alienation/static/css/main.3dd77a27.css",
+    "main.js": "/alienation/static/js/main.17e6f71f.js",
+    "static/js/512.ac6be473.chunk.js": "/alienation/static/js/512.ac6be473.chunk.js",
+    "static/media/SEGA.woff": "/alienation/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/alienation/index.html",
+    "main.3dd77a27.css.map": "/alienation/static/css/main.3dd77a27.css.map",
+    "main.17e6f71f.js.map": "/alienation/static/js/main.17e6f71f.js.map",
+    "512.ac6be473.chunk.js.map": "/alienation/static/js/512.ac6be473.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dd77a27.css",
+    "static/js/main.17e6f71f.js"
+  ]
+}
